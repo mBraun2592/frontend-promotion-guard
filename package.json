@@ -1,6 +1,6 @@
 {
   "name": "frontend-promotion-guard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Release gate that catches \"green build, healthy container, broken page\" deploys: CSS audit, computed-style assertions, screenshot diff, and Docker candidate promotion with verified rollback.",
   "main": "src/index.ts",
   "scripts": {
